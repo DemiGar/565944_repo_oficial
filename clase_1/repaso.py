@@ -1,2 +1,3 @@
 # Repaso Python
-print("Hol mundo")
+name = input("Ingresa tu nombre: ")
+print(f"Bienvenido {name}")
